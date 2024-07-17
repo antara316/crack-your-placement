@@ -7,6 +7,7 @@ crack your placement
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/antara316/crack-your-placement/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/antara316/crack-your-placement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/antara316/crack-your-placement/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antara316/crack-your-placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -16,6 +17,7 @@ crack your placement
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/antara316/crack-your-placement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/antara316/crack-your-placement/tree/master/0075-sort-colors) |
 ## Sorting
@@ -36,6 +38,7 @@ crack your placement
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/antara316/crack-your-placement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/antara316/crack-your-placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Prefix Sum
 |  |
