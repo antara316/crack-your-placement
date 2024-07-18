@@ -12,6 +12,7 @@ crack your placement
 | [0018-4sum](https://github.com/antara316/crack-your-placement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/antara316/crack-your-placement/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antara316/crack-your-placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/antara316/crack-your-placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -50,4 +51,12 @@ crack your placement
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
