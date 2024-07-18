@@ -24,6 +24,7 @@ crack your placement
 | [0015-3sum](https://github.com/antara316/crack-your-placement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/antara316/crack-your-placement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/antara316/crack-your-placement/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -64,4 +65,9 @@ crack your placement
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
