@@ -11,6 +11,7 @@ crack your placement
 | [0015-3sum](https://github.com/antara316/crack-your-placement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/antara316/crack-your-placement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/antara316/crack-your-placement/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antara316/crack-your-placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,4 +76,12 @@ crack your placement
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/antara316/crack-your-placement/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
