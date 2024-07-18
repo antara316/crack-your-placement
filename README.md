@@ -54,9 +54,14 @@ crack your placement
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
