@@ -79,6 +79,7 @@ crack your placement
 | [0020-valid-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0065-valid-number](https://github.com/antara316/crack-your-placement/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
@@ -98,6 +99,7 @@ crack your placement
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,5 +111,10 @@ crack your placement
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
