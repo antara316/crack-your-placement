@@ -30,6 +30,7 @@ crack your placement
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/antara316/crack-your-placement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0908-middle-of-the-linked-list) |
@@ -50,6 +51,7 @@ crack your placement
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/antara316/crack-your-placement/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -122,6 +124,7 @@ crack your placement
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/antara316/crack-your-placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
