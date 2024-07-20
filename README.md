@@ -124,6 +124,7 @@ crack your placement
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/antara316/crack-your-placement/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/antara316/crack-your-placement/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0908-middle-of-the-linked-list) |
@@ -131,5 +132,6 @@ crack your placement
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/antara316/crack-your-placement/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/antara316/crack-your-placement/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
