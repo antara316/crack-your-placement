@@ -134,4 +134,16 @@ crack your placement
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/antara316/crack-your-placement/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/antara316/crack-your-placement/tree/master/0203-remove-linked-list-elements) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
