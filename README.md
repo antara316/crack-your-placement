@@ -119,6 +119,7 @@ crack your placement
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/antara316/crack-your-placement/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/antara316/crack-your-placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -129,6 +130,7 @@ crack your placement
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/antara316/crack-your-placement/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/antara316/crack-your-placement/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/antara316/crack-your-placement/tree/master/0203-remove-linked-list-elements) |
@@ -137,6 +139,7 @@ crack your placement
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/antara316/crack-your-placement/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/antara316/crack-your-placement/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/antara316/crack-your-placement/tree/master/0203-remove-linked-list-elements) |
 ## Tree
