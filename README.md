@@ -13,6 +13,7 @@ crack your placement
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/antara316/crack-your-placement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/antara316/crack-your-placement/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/antara316/crack-your-placement/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0088-merge-sorted-array) |
@@ -104,6 +105,7 @@ crack your placement
 | [0049-group-anagrams](https://github.com/antara316/crack-your-placement/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/antara316/crack-your-placement/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/antara316/crack-your-placement/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/antara316/crack-your-placement/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/antara316/crack-your-placement/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0151-reverse-words-in-a-string) |
@@ -130,6 +132,7 @@ crack your placement
 | ------- |
 | [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/antara316/crack-your-placement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
 ## Divide and Conquer
 |  |
