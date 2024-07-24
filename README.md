@@ -11,6 +11,7 @@ crack your placement
 | [0015-3sum](https://github.com/antara316/crack-your-placement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/antara316/crack-your-placement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/antara316/crack-your-placement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/antara316/crack-your-placement/tree/master/0068-text-justification) |
@@ -129,6 +130,7 @@ crack your placement
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
 ## Simulation
@@ -152,6 +154,7 @@ crack your placement
 | ------- |
 | [0002-add-two-numbers](https://github.com/antara316/crack-your-placement/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/antara316/crack-your-placement/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/antara316/crack-your-placement/tree/master/0273-integer-to-english-words) |
