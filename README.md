@@ -26,6 +26,7 @@ crack your placement
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/antara316/crack-your-placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/antara316/crack-your-placement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/antara316/crack-your-placement/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1333-sort-the-jumbled-numbers](https://github.com/antara316/crack-your-placement/tree/master/1333-sort-the-jumbled-numbers) |
@@ -57,6 +58,7 @@ crack your placement
 | [0088-merge-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/antara316/crack-your-placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/antara316/crack-your-placement/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/antara316/crack-your-placement/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
@@ -166,6 +168,7 @@ crack your placement
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/antara316/crack-your-placement/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/antara316/crack-your-placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/antara316/crack-your-placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
 |  |
