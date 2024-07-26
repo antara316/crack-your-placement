@@ -23,6 +23,7 @@ crack your placement
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/antara316/crack-your-placement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/antara316/crack-your-placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/antara316/crack-your-placement/tree/master/0493-reverse-pairs) |
@@ -70,6 +71,7 @@ crack your placement
 | [0115-distinct-subsequences](https://github.com/antara316/crack-your-placement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antara316/crack-your-placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/antara316/crack-your-placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/antara316/crack-your-placement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Hash Table
 |  |
@@ -89,10 +91,12 @@ crack your placement
 | ------- |
 | [0011-container-with-most-water](https://github.com/antara316/crack-your-placement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/antara316/crack-your-placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -235,6 +239,7 @@ crack your placement
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/antara316/crack-your-placement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/antara316/crack-your-placement/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
