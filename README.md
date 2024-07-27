@@ -108,6 +108,7 @@ crack your placement
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/antara316/crack-your-placement/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,6 +177,7 @@ crack your placement
 | [0168-excel-sheet-column-title](https://github.com/antara316/crack-your-placement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/antara316/crack-your-placement/tree/master/0273-integer-to-english-words) |
+| [0445-add-two-numbers-ii](https://github.com/antara316/crack-your-placement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/antara316/crack-your-placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/antara316/crack-your-placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -192,6 +194,7 @@ crack your placement
 | [0203-remove-linked-list-elements](https://github.com/antara316/crack-your-placement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/antara316/crack-your-placement/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/antara316/crack-your-placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
