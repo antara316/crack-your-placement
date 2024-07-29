@@ -21,6 +21,7 @@ crack your placement
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antara316/crack-your-placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/antara316/crack-your-placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/antara316/crack-your-placement/tree/master/0189-rotate-array) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/antara316/crack-your-placement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
@@ -52,6 +53,7 @@ crack your placement
 | [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/antara316/crack-your-placement/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/antara316/crack-your-placement/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
@@ -189,6 +191,7 @@ crack your placement
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/antara316/crack-your-placement/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/antara316/crack-your-placement/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/antara316/crack-your-placement/tree/master/0273-integer-to-english-words) |
 | [0445-add-two-numbers-ii](https://github.com/antara316/crack-your-placement/tree/master/0445-add-two-numbers-ii) |
