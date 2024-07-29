@@ -29,6 +29,7 @@ crack your placement
 | [0442-find-all-duplicates-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/antara316/crack-your-placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/antara316/crack-your-placement/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/antara316/crack-your-placement/tree/master/0948-sort-an-array) |
@@ -94,6 +95,7 @@ crack your placement
 | [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
@@ -122,11 +124,13 @@ crack your placement
 | [0232-implement-queue-using-stacks](https://github.com/antara316/crack-your-placement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/antara316/crack-your-placement/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
