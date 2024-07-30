@@ -44,6 +44,7 @@ crack your placement
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/antara316/crack-your-placement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/antara316/crack-your-placement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ crack your placement
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/antara316/crack-your-placement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +200,7 @@ crack your placement
 | [0068-text-justification](https://github.com/antara316/crack-your-placement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/antara316/crack-your-placement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
