@@ -140,6 +140,7 @@ crack your placement
 | [0937-online-stock-span](https://github.com/antara316/crack-your-placement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/antara316/crack-your-placement/tree/master/0943-sum-of-subarray-minimums) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/antara316/crack-your-placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/antara316/crack-your-placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -170,6 +171,7 @@ crack your placement
 | [0273-integer-to-english-words](https://github.com/antara316/crack-your-placement/tree/master/0273-integer-to-english-words) |
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/antara316/crack-your-placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 ## String Matching
 |  |
