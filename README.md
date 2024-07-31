@@ -22,6 +22,7 @@ crack your placement
 | [0088-merge-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antara316/crack-your-placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/antara316/crack-your-placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/antara316/crack-your-placement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/antara316/crack-your-placement/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
@@ -135,6 +136,7 @@ crack your placement
 | [0020-valid-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/antara316/crack-your-placement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/antara316/crack-your-placement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/antara316/crack-your-placement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/antara316/crack-your-placement/tree/master/0232-implement-queue-using-stacks) |
@@ -225,6 +227,7 @@ crack your placement
 | [0012-integer-to-roman](https://github.com/antara316/crack-your-placement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/antara316/crack-your-placement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/antara316/crack-your-placement/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/antara316/crack-your-placement/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
