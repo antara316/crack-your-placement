@@ -179,6 +179,7 @@ crack your placement
 | [0151-reverse-words-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/antara316/crack-your-placement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/antara316/crack-your-placement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/antara316/crack-your-placement/tree/master/0273-integer-to-english-words) |
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
@@ -282,6 +283,7 @@ crack your placement
 | [0104-maximum-depth-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/antara316/crack-your-placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/antara316/crack-your-placement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/antara316/crack-your-placement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/antara316/crack-your-placement/tree/master/0572-subtree-of-another-tree) |
@@ -292,6 +294,7 @@ crack your placement
 | [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/antara316/crack-your-placement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/antara316/crack-your-placement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/antara316/crack-your-placement/tree/master/0572-subtree-of-another-tree) |
@@ -304,6 +307,7 @@ crack your placement
 | [0104-maximum-depth-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/antara316/crack-your-placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/antara316/crack-your-placement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/antara316/crack-your-placement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/antara316/crack-your-placement/tree/master/0617-merge-two-binary-trees) |
@@ -373,6 +377,7 @@ crack your placement
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/antara316/crack-your-placement/tree/master/0257-binary-tree-paths) |
 ## Bucket Sort
 |  |
 | ------- |
