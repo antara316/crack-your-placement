@@ -108,6 +108,7 @@ crack your placement
 | [0049-group-anagrams](https://github.com/antara316/crack-your-placement/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/antara316/crack-your-placement/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/antara316/crack-your-placement/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -253,6 +254,7 @@ crack your placement
 | [0086-partition-list](https://github.com/antara316/crack-your-placement/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/antara316/crack-your-placement/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/antara316/crack-your-placement/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/antara316/crack-your-placement/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/antara316/crack-your-placement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0206-reverse-linked-list) |
@@ -378,10 +380,12 @@ crack your placement
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/antara316/crack-your-placement/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/antara316/crack-your-placement/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/antara316/crack-your-placement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/antara316/crack-your-placement/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/antara316/crack-your-placement/tree/master/0341-flatten-nested-list-iterator) |
