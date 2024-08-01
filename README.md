@@ -279,6 +279,7 @@ crack your placement
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/antara316/crack-your-placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/antara316/crack-your-placement/tree/master/0341-flatten-nested-list-iterator) |
@@ -289,6 +290,7 @@ crack your placement
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/antara316/crack-your-placement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
@@ -299,6 +301,7 @@ crack your placement
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/antara316/crack-your-placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
@@ -308,6 +311,7 @@ crack your placement
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/antara316/crack-your-placement/tree/master/0617-merge-two-binary-trees) |
 ## Hash Function
