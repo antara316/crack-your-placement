@@ -276,6 +276,7 @@ crack your placement
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/antara316/crack-your-placement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
@@ -283,6 +284,7 @@ crack your placement
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/antara316/crack-your-placement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
@@ -291,12 +293,14 @@ crack your placement
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/antara316/crack-your-placement/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
 ## Hash Function
 |  |
