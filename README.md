@@ -26,6 +26,7 @@ crack your placement
 | [0150-evaluate-reverse-polish-notation](https://github.com/antara316/crack-your-placement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/antara316/crack-your-placement/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/antara316/crack-your-placement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
@@ -83,6 +84,7 @@ crack your placement
 | [0088-merge-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/antara316/crack-your-placement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/antara316/crack-your-placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -111,6 +113,7 @@ crack your placement
 | [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/antara316/crack-your-placement/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
@@ -223,6 +226,7 @@ crack your placement
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
