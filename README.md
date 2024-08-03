@@ -118,6 +118,7 @@ crack your placement
 | [0442-find-all-duplicates-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 ## Greedy
@@ -302,6 +303,7 @@ crack your placement
 | [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/antara316/crack-your-placement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/antara316/crack-your-placement/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -321,6 +323,7 @@ crack your placement
 | [0572-subtree-of-another-tree](https://github.com/antara316/crack-your-placement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/antara316/crack-your-placement/tree/master/0617-merge-two-binary-trees) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,6 +343,7 @@ crack your placement
 | [0543-diameter-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/antara316/crack-your-placement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/antara316/crack-your-placement/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -351,6 +355,7 @@ crack your placement
 | [0404-sum-of-left-leaves](https://github.com/antara316/crack-your-placement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/antara316/crack-your-placement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/antara316/crack-your-placement/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
