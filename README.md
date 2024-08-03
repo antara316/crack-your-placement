@@ -141,6 +141,7 @@ crack your placement
 | [0020-valid-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/antara316/crack-your-placement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/antara316/crack-your-placement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/antara316/crack-your-placement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
@@ -283,6 +284,7 @@ crack your placement
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/antara316/crack-your-placement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -301,6 +303,7 @@ crack your placement
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/antara316/crack-your-placement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -319,6 +322,7 @@ crack your placement
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/antara316/crack-your-placement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/antara316/crack-your-placement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0104-maximum-depth-of-binary-tree) |
