@@ -1,39 +1,45 @@
 class Solution {
-    public List<List<Integer>> fourSum(int[] arr, int target) {
-        
-    Arrays.sort(arr);
-        ArrayList<Integer>list=new  ArrayList<>();
-        List<List<Integer>>list2=new  ArrayList<>();
-        HashSet<List<Integer>>mpp=new HashSet<>();
-        int i=0;
-        int j=1;int k=2;int l=arr.length-1;
-        while(i<j &&k<l){
-        while(j<k &&k<l){   
-           while(k<l){
-            long sum=(long)arr[i]+arr[j]+arr[k]+arr[l];
-            if(sum==target)
+    public List<List<Integer>> fourSum(int[] nums, int target) {
+        Arrays.sort(nums);
+        List<List<Integer>> ans = new ArrayList<>();
+        for(int i=0;i<nums.length;i++)
+        {
+            if(i>0 && nums[i]==nums[i-1]) continue;
+            for(int j = i+1;j<nums.length;j++)
             {
-                 Collections.addAll(list,arr[i],arr[j],arr[k],arr[l]);
-                 mpp.add(list);
-                 list=new  ArrayList<>();
-                k++;l--;
+                if(j>i+1 && nums[j]==nums[j-1]) continue;
+                int k= j+1;
+                int l = nums.length-1;
+                while(k<l)
+                {
+                    long sum = nums[i];
+                    sum+=nums[j];
+                    sum+=nums[k];
+                    sum+=nums[l];
+                    if(sum==target)
+                    {
+                        List<Integer> temp = new ArrayList<>();
+                        temp.add(nums[i]);
+                        temp.add(nums[j]);
+                        temp.add(nums[k]);
+                        temp.add(nums[l]);
+                        ans.add(temp);
+                        k++;
+                        l--;
+                        while(k<l && nums[k]==nums[k-1]) k++;
+                        while(k<l && nums[l]==nums[l+1]) l--;
+                    }
+                    else if(sum<target)
+                    {
+                        k++;
+                    }else
+                    {
+                        l--;
+                    }
+                }
             }
-            else if(sum>target)
-            l--;
-            else if(sum<target)
-            k++;
-           }
-          j++;
-          k=j+1;l=arr.length-1;
         }
-           i++;
-           j=i+1;k=j+1;l=arr.length-1;  
-        }
-        
-        for(List<Integer> ii:mpp){
-            list2.add(ii);
-        }
-        
-        return list2;
+
+        return ans;
     }
 }
