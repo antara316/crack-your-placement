@@ -41,6 +41,7 @@ crack your placement
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/antara316/crack-your-placement/tree/master/0739-daily-temperatures) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/antara316/crack-your-placement/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/antara316/crack-your-placement/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -121,6 +122,7 @@ crack your placement
 | [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 ## Greedy
@@ -226,6 +228,7 @@ crack your placement
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/antara316/crack-your-placement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/antara316/crack-your-placement/tree/master/0493-reverse-pairs) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/antara316/crack-your-placement/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
@@ -310,6 +313,7 @@ crack your placement
 | [0572-subtree-of-another-tree](https://github.com/antara316/crack-your-placement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/antara316/crack-your-placement/tree/master/0617-merge-two-binary-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -357,6 +361,7 @@ crack your placement
 | [0572-subtree-of-another-tree](https://github.com/antara316/crack-your-placement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/antara316/crack-your-placement/tree/master/0617-merge-two-binary-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
