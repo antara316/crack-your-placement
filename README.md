@@ -25,6 +25,7 @@ crack your placement
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antara316/crack-your-placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/antara316/crack-your-placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/antara316/crack-your-placement/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/antara316/crack-your-placement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/antara316/crack-your-placement/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0229-majority-element-ii) |
@@ -104,6 +105,7 @@ crack your placement
 | [0115-distinct-subsequences](https://github.com/antara316/crack-your-placement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antara316/crack-your-placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/antara316/crack-your-placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/antara316/crack-your-placement/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/antara316/crack-your-placement/tree/master/0943-sum-of-subarray-minimums) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/antara316/crack-your-placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
