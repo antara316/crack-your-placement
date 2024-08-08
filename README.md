@@ -12,6 +12,7 @@ crack your placement
 | [0018-4sum](https://github.com/antara316/crack-your-placement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/antara316/crack-your-placement/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/antara316/crack-your-placement/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/antara316/crack-your-placement/tree/master/0053-maximum-subarray) |
@@ -422,6 +423,7 @@ crack your placement
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/antara316/crack-your-placement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
