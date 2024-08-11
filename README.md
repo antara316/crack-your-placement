@@ -33,6 +33,7 @@ crack your placement
 | [0162-find-peak-element](https://github.com/antara316/crack-your-placement/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/antara316/crack-your-placement/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/antara316/crack-your-placement/tree/master/0283-move-zeroes) |
@@ -228,6 +229,7 @@ crack your placement
 | ------- |
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
@@ -364,6 +366,7 @@ crack your placement
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/antara316/crack-your-placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/antara316/crack-your-placement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/antara316/crack-your-placement/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/antara316/crack-your-placement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/antara316/crack-your-placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -429,6 +432,7 @@ crack your placement
 | [0112-path-sum](https://github.com/antara316/crack-your-placement/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/antara316/crack-your-placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/antara316/crack-your-placement/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/antara316/crack-your-placement/tree/master/0404-sum-of-left-leaves) |
@@ -559,4 +563,8 @@ crack your placement
 | [0230-kth-smallest-element-in-a-bst](https://github.com/antara316/crack-your-placement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/antara316/crack-your-placement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/antara316/crack-your-placement/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
