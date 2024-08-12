@@ -57,6 +57,7 @@ crack your placement
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/antara316/crack-your-placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1333-sort-the-jumbled-numbers](https://github.com/antara316/crack-your-placement/tree/master/1333-sort-the-jumbled-numbers) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/antara316/crack-your-placement/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/antara316/crack-your-placement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
@@ -478,6 +479,7 @@ crack your placement
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/antara316/crack-your-placement/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0540-single-element-in-a-sorted-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/antara316/crack-your-placement/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/antara316/crack-your-placement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Indexed Tree
 |  |
