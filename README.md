@@ -391,6 +391,7 @@ crack your placement
 | [0662-maximum-width-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/antara316/crack-your-placement/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0820-find-eventual-safe-states](https://github.com/antara316/crack-your-placement/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/antara316/crack-your-placement/tree/master/0863-sum-of-distances-in-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/antara316/crack-your-placement/tree/master/0971-shortest-bridge) |
@@ -452,6 +453,7 @@ crack your placement
 | [0617-merge-two-binary-trees](https://github.com/antara316/crack-your-placement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/antara316/crack-your-placement/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/antara316/crack-your-placement/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/antara316/crack-your-placement/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -539,6 +541,7 @@ crack your placement
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/antara316/crack-your-placement/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/antara316/crack-your-placement/tree/master/0863-sum-of-distances-in-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/antara316/crack-your-placement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/antara316/crack-your-placement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -586,4 +589,8 @@ crack your placement
 | ------- |
 | [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/antara316/crack-your-placement/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/antara316/crack-your-placement/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
