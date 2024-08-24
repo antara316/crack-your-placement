@@ -1,27 +1,44 @@
 class Solution {
-    public int cntNoOfSplits(int []nums,int maxSum){
-        int noOfSplits=1,sum=0;
-        for(int x:nums){
-            if(sum+x<=maxSum) sum+=x;
-            else{
-                noOfSplits++;
-                sum=x;
+    public int splitArray(int[] nums, int k) {
+        int low = nums[0];
+        int high = 0;
+        for(int i=0;i<nums.length;i++)
+        {
+            low = Math.max(low,nums[i]);
+            high = high + nums[i];
+        }
+
+        while(low<=high)
+        {
+            int mid = (low+high)/2;
+            if(partitionCount(nums,mid) > k)
+            {
+                low = mid+1;
+            }
+            else
+            {
+                high = mid-1;
             }
         }
-        return noOfSplits;
+
+        return low;
     }
-    public int splitArray(int[] nums, int k) {
-        int start=Integer.MIN_VALUE,end=0,mid=0;
-        for(int x:nums){
-            start=Math.max(start,x);
-            end+=x;
+
+    public int partitionCount(int nums[],int k)
+    {
+        int partition = 1;
+        long subarrsum = 0;
+        for(int i=0;i<nums.length;i++)
+        {
+            if(subarrsum + nums[i] <= k)
+            {
+                subarrsum += nums[i];
+            }else
+            {
+                partition++;
+                subarrsum = nums[i];
+            }
         }
-        while(start<=end){
-            mid = (start+end)/2;
-            int noOfSplits = cntNoOfSplits(nums,mid);
-            if(noOfSplits<=k) end=mid-1;
-            else start=mid+1;
-        }
-        return start;
+        return partition;
     }
 }
