@@ -43,6 +43,7 @@ crack your placement
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/antara316/crack-your-placement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0336-palindrome-pairs](https://github.com/antara316/crack-your-placement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/antara316/crack-your-placement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/antara316/crack-your-placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/antara316/crack-your-placement/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -115,6 +116,7 @@ crack your placement
 | [0229-majority-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/antara316/crack-your-placement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/antara316/crack-your-placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/antara316/crack-your-placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/antara316/crack-your-placement/tree/master/0948-sort-an-array) |
@@ -270,6 +272,7 @@ crack your placement
 | [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/antara316/crack-your-placement/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/antara316/crack-your-placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/antara316/crack-your-placement/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/antara316/crack-your-placement/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/antara316/crack-your-placement/tree/master/0945-snakes-and-ladders) |
@@ -537,6 +540,7 @@ crack your placement
 | [0162-find-peak-element](https://github.com/antara316/crack-your-placement/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/antara316/crack-your-placement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/antara316/crack-your-placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/antara316/crack-your-placement/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0540-single-element-in-a-sorted-array) |
@@ -579,6 +583,7 @@ crack your placement
 | [0215-kth-largest-element-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/antara316/crack-your-placement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/antara316/crack-your-placement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/antara316/crack-your-placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/antara316/crack-your-placement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/antara316/crack-your-placement/tree/master/0948-sort-an-array) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
