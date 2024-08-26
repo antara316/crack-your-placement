@@ -36,6 +36,7 @@ crack your placement
 | [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/antara316/crack-your-placement/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/antara316/crack-your-placement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
@@ -551,6 +552,7 @@ crack your placement
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/antara316/crack-your-placement/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/antara316/crack-your-placement/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 ## Binary Search
@@ -599,12 +601,14 @@ crack your placement
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/antara316/crack-your-placement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/antara316/crack-your-placement/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/antara316/crack-your-placement/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/antara316/crack-your-placement/tree/master/0341-flatten-nested-list-iterator) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/antara316/crack-your-placement/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/antara316/crack-your-placement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/antara316/crack-your-placement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/antara316/crack-your-placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -620,6 +624,7 @@ crack your placement
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/antara316/crack-your-placement/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 ## Backtracking
 |  |
