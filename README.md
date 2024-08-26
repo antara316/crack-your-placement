@@ -56,6 +56,7 @@ crack your placement
 | [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/antara316/crack-your-placement/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/antara316/crack-your-placement/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/antara316/crack-your-placement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/antara316/crack-your-placement/tree/master/0854-making-a-large-island) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/antara316/crack-your-placement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/antara316/crack-your-placement/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -290,6 +291,7 @@ crack your placement
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/antara316/crack-your-placement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/antara316/crack-your-placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/antara316/crack-your-placement/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/antara316/crack-your-placement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/antara316/crack-your-placement/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/antara316/crack-your-placement/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/antara316/crack-your-placement/tree/master/0971-shortest-bridge) |
@@ -458,6 +460,7 @@ crack your placement
 | [0684-redundant-connection](https://github.com/antara316/crack-your-placement/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/antara316/crack-your-placement/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/antara316/crack-your-placement/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/antara316/crack-your-placement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/antara316/crack-your-placement/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/antara316/crack-your-placement/tree/master/0854-making-a-large-island) |
@@ -529,6 +532,7 @@ crack your placement
 | [0662-maximum-width-of-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/antara316/crack-your-placement/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/antara316/crack-your-placement/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/antara316/crack-your-placement/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/antara316/crack-your-placement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/antara316/crack-your-placement/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/antara316/crack-your-placement/tree/master/0854-making-a-large-island) |
@@ -563,6 +567,7 @@ crack your placement
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/antara316/crack-your-placement/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0540-single-element-in-a-sorted-array) |
+| [0794-swim-in-rising-water](https://github.com/antara316/crack-your-placement/tree/master/0794-swim-in-rising-water) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/antara316/crack-your-placement/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/antara316/crack-your-placement/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/antara316/crack-your-placement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -604,6 +609,7 @@ crack your placement
 | [0347-top-k-frequent-elements](https://github.com/antara316/crack-your-placement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/antara316/crack-your-placement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/antara316/crack-your-placement/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/antara316/crack-your-placement/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/antara316/crack-your-placement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/antara316/crack-your-placement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/antara316/crack-your-placement/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -695,6 +701,7 @@ crack your placement
 | [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/antara316/crack-your-placement/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/antara316/crack-your-placement/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/antara316/crack-your-placement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/antara316/crack-your-placement/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/antara316/crack-your-placement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/antara316/crack-your-placement/tree/master/1442-number-of-operations-to-make-network-connected) |
