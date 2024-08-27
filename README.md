@@ -172,6 +172,7 @@ crack your placement
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/antara316/crack-your-placement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/antara316/crack-your-placement/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/antara316/crack-your-placement/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
@@ -266,6 +267,7 @@ crack your placement
 | [0336-palindrome-pairs](https://github.com/antara316/crack-your-placement/tree/master/0336-palindrome-pairs) |
 | [0394-decode-string](https://github.com/antara316/crack-your-placement/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/antara316/crack-your-placement/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/antara316/crack-your-placement/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/antara316/crack-your-placement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
@@ -555,6 +557,7 @@ crack your placement
 | ------- |
 | [0076-minimum-window-substring](https://github.com/antara316/crack-your-placement/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/antara316/crack-your-placement/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/antara316/crack-your-placement/tree/master/0424-longest-repeating-character-replacement) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 ## Binary Search
