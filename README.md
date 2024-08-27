@@ -79,6 +79,7 @@ crack your placement
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/antara316/crack-your-placement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 | [1646-kth-missing-positive-number](https://github.com/antara316/crack-your-placement/tree/master/1646-kth-missing-positive-number) |
+| [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/antara316/crack-your-placement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/antara316/crack-your-placement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/antara316/crack-your-placement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -133,6 +134,7 @@ crack your placement
 | [1014-k-closest-points-to-origin](https://github.com/antara316/crack-your-placement/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/antara316/crack-your-placement/tree/master/1333-sort-the-jumbled-numbers) |
+| [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -355,6 +357,7 @@ crack your placement
 | [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/antara316/crack-your-placement/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/antara316/crack-your-placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -562,6 +565,7 @@ crack your placement
 | [0424-longest-repeating-character-replacement](https://github.com/antara316/crack-your-placement/tree/master/0424-longest-repeating-character-replacement) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
+| [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -742,4 +746,5 @@ crack your placement
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/antara316/crack-your-placement/tree/master/1014-k-closest-points-to-origin) |
+| [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
 <!---LeetCode Topics End-->
