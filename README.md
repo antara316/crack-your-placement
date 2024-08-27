@@ -15,6 +15,7 @@ crack your placement
 | [0031-next-permutation](https://github.com/antara316/crack-your-placement/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/antara316/crack-your-placement/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/antara316/crack-your-placement/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/antara316/crack-your-placement/tree/master/0053-maximum-subarray) |
@@ -642,6 +643,7 @@ crack your placement
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/antara316/crack-your-placement/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/antara316/crack-your-placement/tree/master/0257-binary-tree-paths) |
 ## Bucket Sort
 |  |
