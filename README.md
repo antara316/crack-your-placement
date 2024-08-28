@@ -25,6 +25,7 @@ crack your placement
 | [0068-text-justification](https://github.com/antara316/crack-your-placement/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/antara316/crack-your-placement/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/antara316/crack-your-placement/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/antara316/crack-your-placement/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/antara316/crack-your-placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0088-merge-sorted-array) |
@@ -371,6 +372,7 @@ crack your placement
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/antara316/crack-your-placement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/antara316/crack-your-placement/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
@@ -657,6 +659,7 @@ crack your placement
 | [0040-combination-sum-ii](https://github.com/antara316/crack-your-placement/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/antara316/crack-your-placement/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/antara316/crack-your-placement/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/antara316/crack-your-placement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/antara316/crack-your-placement/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/antara316/crack-your-placement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/antara316/crack-your-placement/tree/master/0257-binary-tree-paths) |
