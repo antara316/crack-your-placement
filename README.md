@@ -150,6 +150,7 @@ crack your placement
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antara316/crack-your-placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/antara316/crack-your-placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/antara316/crack-your-placement/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/antara316/crack-your-placement/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/antara316/crack-your-placement/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/antara316/crack-your-placement/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/antara316/crack-your-placement/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -264,6 +265,7 @@ crack your placement
 | [0076-minimum-window-substring](https://github.com/antara316/crack-your-placement/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/antara316/crack-your-placement/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/antara316/crack-your-placement/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/antara316/crack-your-placement/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/antara316/crack-your-placement/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/antara316/crack-your-placement/tree/master/0208-implement-trie-prefix-tree) |
@@ -654,6 +656,7 @@ crack your placement
 | [0040-combination-sum-ii](https://github.com/antara316/crack-your-placement/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/antara316/crack-your-placement/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/antara316/crack-your-placement/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/antara316/crack-your-placement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/antara316/crack-your-placement/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
 ## Bucket Sort
