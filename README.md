@@ -15,6 +15,7 @@ crack your placement
 | [0031-next-permutation](https://github.com/antara316/crack-your-placement/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/antara316/crack-your-placement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/antara316/crack-your-placement/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/antara316/crack-your-placement/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
@@ -173,6 +174,7 @@ crack your placement
 | ------- |
 | [0001-two-sum](https://github.com/antara316/crack-your-placement/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/antara316/crack-your-placement/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/antara316/crack-your-placement/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/antara316/crack-your-placement/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/antara316/crack-your-placement/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/antara316/crack-your-placement/tree/master/0127-word-ladder) |
@@ -303,6 +305,7 @@ crack your placement
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/antara316/crack-your-placement/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/antara316/crack-your-placement/tree/master/0074-search-a-2d-matrix) |
@@ -660,6 +663,7 @@ crack your placement
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/antara316/crack-your-placement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/antara316/crack-your-placement/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/antara316/crack-your-placement/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/antara316/crack-your-placement/tree/master/0051-n-queens) |
