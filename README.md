@@ -22,6 +22,7 @@ crack your placement
 | [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/antara316/crack-your-placement/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/antara316/crack-your-placement/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/antara316/crack-your-placement/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/antara316/crack-your-placement/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/antara316/crack-your-placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
@@ -298,6 +299,7 @@ crack your placement
 | ------- |
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/antara316/crack-your-placement/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/antara316/crack-your-placement/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -578,6 +580,7 @@ crack your placement
 | [0004-median-of-two-sorted-arrays](https://github.com/antara316/crack-your-placement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/antara316/crack-your-placement/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/antara316/crack-your-placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/antara316/crack-your-placement/tree/master/0162-find-peak-element) |
