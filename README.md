@@ -644,6 +644,7 @@ crack your placement
 | ------- |
 | [0022-generate-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/antara316/crack-your-placement/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/antara316/crack-your-placement/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/antara316/crack-your-placement/tree/master/0257-binary-tree-paths) |
 ## Bucket Sort
 |  |
