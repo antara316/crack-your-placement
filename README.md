@@ -93,6 +93,7 @@ crack your placement
 | [1792-find-the-most-competitive-subsequence](https://github.com/antara316/crack-your-placement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/antara316/crack-your-placement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/antara316/crack-your-placement/tree/master/2047-find-a-peak-element-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/antara316/crack-your-placement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/antara316/crack-your-placement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
@@ -322,6 +323,7 @@ crack your placement
 | [1022-unique-paths-iii](https://github.com/antara316/crack-your-placement/tree/master/1022-unique-paths-iii) |
 | [1117-as-far-from-land-as-possible](https://github.com/antara316/crack-your-placement/tree/master/1117-as-far-from-land-as-possible) |
 | [2047-find-a-peak-element-ii](https://github.com/antara316/crack-your-placement/tree/master/2047-find-a-peak-element-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/antara316/crack-your-placement/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
@@ -330,6 +332,7 @@ crack your placement
 | [0068-text-justification](https://github.com/antara316/crack-your-placement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/antara316/crack-your-placement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/antara316/crack-your-placement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
