@@ -70,6 +70,7 @@ crack your placement
 | [0794-swim-in-rising-water](https://github.com/antara316/crack-your-placement/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/antara316/crack-your-placement/tree/master/0854-making-a-large-island) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/antara316/crack-your-placement/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/antara316/crack-your-placement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/antara316/crack-your-placement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/antara316/crack-your-placement/tree/master/0943-sum-of-subarray-minimums) |
@@ -222,6 +223,7 @@ crack your placement
 | [0303-range-sum-query-immutable](https://github.com/antara316/crack-your-placement/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/antara316/crack-your-placement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Stack
@@ -594,6 +596,7 @@ crack your placement
 | [0076-minimum-window-substring](https://github.com/antara316/crack-your-placement/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/antara316/crack-your-placement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/antara316/crack-your-placement/tree/master/0424-longest-repeating-character-replacement) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/antara316/crack-your-placement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 | [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
@@ -614,6 +617,7 @@ crack your placement
 | [0493-reverse-pairs](https://github.com/antara316/crack-your-placement/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/antara316/crack-your-placement/tree/master/0794-swim-in-rising-water) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/antara316/crack-your-placement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/antara316/crack-your-placement/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/antara316/crack-your-placement/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/antara316/crack-your-placement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -648,6 +652,7 @@ crack your placement
 | [0232-implement-queue-using-stacks](https://github.com/antara316/crack-your-placement/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/antara316/crack-your-placement/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/antara316/crack-your-placement/tree/master/0341-flatten-nested-list-iterator) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/antara316/crack-your-placement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
@@ -661,6 +666,7 @@ crack your placement
 | [0794-swim-in-rising-water](https://github.com/antara316/crack-your-placement/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/antara316/crack-your-placement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/antara316/crack-your-placement/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/antara316/crack-your-placement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/antara316/crack-your-placement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0948-sort-an-array](https://github.com/antara316/crack-your-placement/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/antara316/crack-your-placement/tree/master/1014-k-closest-points-to-origin) |
@@ -670,6 +676,7 @@ crack your placement
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/antara316/crack-your-placement/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/antara316/crack-your-placement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 ## Backtracking
 |  |
