@@ -520,6 +520,7 @@ crack your placement
 | [1300-critical-connections-in-a-network](https://github.com/antara316/crack-your-placement/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/antara316/crack-your-placement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/antara316/crack-your-placement/tree/master/1492-time-needed-to-inform-all-employees) |
+| [2201-valid-arrangement-of-pairs](https://github.com/antara316/crack-your-placement/tree/master/2201-valid-arrangement-of-pairs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -724,6 +725,7 @@ crack your placement
 | [1300-critical-connections-in-a-network](https://github.com/antara316/crack-your-placement/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/antara316/crack-your-placement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/antara316/crack-your-placement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2201-valid-arrangement-of-pairs](https://github.com/antara316/crack-your-placement/tree/master/2201-valid-arrangement-of-pairs) |
 ## Shortest Path
 |  |
 | ------- |
@@ -806,4 +808,8 @@ crack your placement
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/antara316/crack-your-placement/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
