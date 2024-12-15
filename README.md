@@ -117,6 +117,7 @@ crack your placement
 | [0086-partition-list](https://github.com/antara316/crack-your-placement/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/antara316/crack-your-placement/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/antara316/crack-your-placement/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/antara316/crack-your-placement/tree/master/0189-rotate-array) |
@@ -189,6 +190,7 @@ crack your placement
 | [0076-minimum-window-substring](https://github.com/antara316/crack-your-placement/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/antara316/crack-your-placement/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/antara316/crack-your-placement/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/antara316/crack-your-placement/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/antara316/crack-your-placement/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/antara316/crack-your-placement/tree/master/0208-implement-trie-prefix-tree) |
@@ -418,6 +420,7 @@ crack your placement
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/antara316/crack-your-placement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/antara316/crack-your-placement/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/antara316/crack-your-placement/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/antara316/crack-your-placement/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/antara316/crack-your-placement/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/antara316/crack-your-placement/tree/master/0203-remove-linked-list-elements) |
