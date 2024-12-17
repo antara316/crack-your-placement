@@ -214,6 +214,7 @@ crack your placement
 | [1468-check-if-n-and-its-double-exist](https://github.com/antara316/crack-your-placement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/antara316/crack-your-placement/tree/master/2300-construct-string-with-repeat-limit) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
@@ -228,6 +229,7 @@ crack your placement
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/antara316/crack-your-placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1762-furthest-building-you-can-reach](https://github.com/antara316/crack-your-placement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/antara316/crack-your-placement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2300-construct-string-with-repeat-limit](https://github.com/antara316/crack-your-placement/tree/master/2300-construct-string-with-repeat-limit) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -307,6 +309,7 @@ crack your placement
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/antara316/crack-your-placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/antara316/crack-your-placement/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/antara316/crack-your-placement/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 ## String Matching
@@ -378,6 +381,7 @@ crack your placement
 | [0778-reorganize-string](https://github.com/antara316/crack-your-placement/tree/master/0778-reorganize-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/antara316/crack-your-placement/tree/master/2300-construct-string-with-repeat-limit) |
 ## Math
 |  |
 | ------- |
@@ -694,6 +698,7 @@ crack your placement
 | [1014-k-closest-points-to-origin](https://github.com/antara316/crack-your-placement/tree/master/1014-k-closest-points-to-origin) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/antara316/crack-your-placement/tree/master/1762-furthest-building-you-can-reach) |
+| [2300-construct-string-with-repeat-limit](https://github.com/antara316/crack-your-placement/tree/master/2300-construct-string-with-repeat-limit) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/antara316/crack-your-placement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
 |  |
