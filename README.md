@@ -496,6 +496,7 @@ crack your placement
 | [1008-binary-tree-cameras](https://github.com/antara316/crack-your-placement/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/antara316/crack-your-placement/tree/master/1492-time-needed-to-inform-all-employees) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/antara316/crack-your-placement/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -545,6 +546,7 @@ crack your placement
 | [1442-number-of-operations-to-make-network-connected](https://github.com/antara316/crack-your-placement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/antara316/crack-your-placement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2201-valid-arrangement-of-pairs](https://github.com/antara316/crack-your-placement/tree/master/2201-valid-arrangement-of-pairs) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/antara316/crack-your-placement/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
