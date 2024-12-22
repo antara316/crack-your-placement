@@ -400,6 +400,7 @@ crack your placement
 | [0007-reverse-integer](https://github.com/antara316/crack-your-placement/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/antara316/crack-your-placement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/antara316/crack-your-placement/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/antara316/crack-your-placement/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/antara316/crack-your-placement/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -460,6 +461,7 @@ crack your placement
 | [0002-add-two-numbers](https://github.com/antara316/crack-your-placement/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/antara316/crack-your-placement/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/antara316/crack-your-placement/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/antara316/crack-your-placement/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/antara316/crack-your-placement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0234-palindrome-linked-list) |
