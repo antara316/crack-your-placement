@@ -508,6 +508,7 @@ crack your placement
 | [1492-time-needed-to-inform-all-employees](https://github.com/antara316/crack-your-placement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/antara316/crack-your-placement/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/antara316/crack-your-placement/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/antara316/crack-your-placement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -558,6 +559,7 @@ crack your placement
 | [1492-time-needed-to-inform-all-employees](https://github.com/antara316/crack-your-placement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2201-valid-arrangement-of-pairs](https://github.com/antara316/crack-your-placement/tree/master/2201-valid-arrangement-of-pairs) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/antara316/crack-your-placement/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/antara316/crack-your-placement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -630,6 +632,7 @@ crack your placement
 | [1442-number-of-operations-to-make-network-connected](https://github.com/antara316/crack-your-placement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/antara316/crack-your-placement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/antara316/crack-your-placement/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/antara316/crack-your-placement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Hash Function
 |  |
 | ------- |
@@ -772,6 +775,7 @@ crack your placement
 | [1442-number-of-operations-to-make-network-connected](https://github.com/antara316/crack-your-placement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/antara316/crack-your-placement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2201-valid-arrangement-of-pairs](https://github.com/antara316/crack-your-placement/tree/master/2201-valid-arrangement-of-pairs) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/antara316/crack-your-placement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Shortest Path
 |  |
 | ------- |
