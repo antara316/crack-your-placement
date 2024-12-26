@@ -60,6 +60,7 @@ crack your placement
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/antara316/crack-your-placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/antara316/crack-your-placement/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/antara316/crack-your-placement/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/antara316/crack-your-placement/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0540-single-element-in-a-sorted-array) |
@@ -177,6 +178,7 @@ crack your placement
 | [0264-ugly-number-ii](https://github.com/antara316/crack-your-placement/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/antara316/crack-your-placement/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/antara316/crack-your-placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/antara316/crack-your-placement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/antara316/crack-your-placement/tree/master/0863-sum-of-distances-in-tree) |
@@ -750,6 +752,7 @@ crack your placement
 | [0090-subsets-ii](https://github.com/antara316/crack-your-placement/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/antara316/crack-your-placement/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/antara316/crack-your-placement/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/antara316/crack-your-placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/antara316/crack-your-placement/tree/master/1022-unique-paths-iii) |
 ## Bucket Sort
