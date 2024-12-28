@@ -66,6 +66,7 @@ crack your placement
 | [0540-single-element-in-a-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/antara316/crack-your-placement/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0733-flood-fill](https://github.com/antara316/crack-your-placement/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/antara316/crack-your-placement/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/antara316/crack-your-placement/tree/master/0780-max-chunks-to-make-sorted) |
@@ -181,6 +182,7 @@ crack your placement
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/antara316/crack-your-placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/antara316/crack-your-placement/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/antara316/crack-your-placement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/antara316/crack-your-placement/tree/master/0863-sum-of-distances-in-tree) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/antara316/crack-your-placement/tree/master/0902-minimum-number-of-refueling-stops) |
