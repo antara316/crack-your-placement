@@ -95,6 +95,7 @@ crack your placement
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 | [1646-kth-missing-positive-number](https://github.com/antara316/crack-your-placement/tree/master/1646-kth-missing-positive-number) |
 | [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/antara316/crack-your-placement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/antara316/crack-your-placement/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/antara316/crack-your-placement/tree/master/1762-furthest-building-you-can-reach) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -192,6 +193,7 @@ crack your placement
 | [1117-as-far-from-land-as-possible](https://github.com/antara316/crack-your-placement/tree/master/1117-as-far-from-land-as-possible) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/antara316/crack-your-placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/antara316/crack-your-placement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/antara316/crack-your-placement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Hash Table
 |  |
 | ------- |
@@ -324,6 +326,7 @@ crack your placement
 | [0778-reorganize-string](https://github.com/antara316/crack-your-placement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/antara316/crack-your-placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/antara316/crack-your-placement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/antara316/crack-your-placement/tree/master/2300-construct-string-with-repeat-limit) |
