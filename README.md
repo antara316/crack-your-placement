@@ -194,6 +194,7 @@ crack your placement
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/antara316/crack-your-placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/antara316/crack-your-placement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/antara316/crack-your-placement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2562-count-ways-to-build-good-strings](https://github.com/antara316/crack-your-placement/tree/master/2562-count-ways-to-build-good-strings) |
 ## Hash Table
 |  |
 | ------- |
