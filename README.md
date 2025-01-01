@@ -255,6 +255,7 @@ crack your placement
 | [0560-subarray-sum-equals-k](https://github.com/antara316/crack-your-placement/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/antara316/crack-your-placement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/antara316/crack-your-placement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
@@ -329,6 +330,7 @@ crack your placement
 | [0778-reorganize-string](https://github.com/antara316/crack-your-placement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/antara316/crack-your-placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/antara316/crack-your-placement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/antara316/crack-your-placement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/2163-kth-distinct-string-in-an-array) |
