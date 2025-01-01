@@ -419,6 +419,7 @@ crack your placement
 | [0168-excel-sheet-column-title](https://github.com/antara316/crack-your-placement/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/antara316/crack-your-placement/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/antara316/crack-your-placement/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/antara316/crack-your-placement/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/antara316/crack-your-placement/tree/master/0273-integer-to-english-words) |
@@ -435,6 +436,7 @@ crack your placement
 | [0067-add-binary](https://github.com/antara316/crack-your-placement/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/antara316/crack-your-placement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/antara316/crack-your-placement/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/antara316/crack-your-placement/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/antara316/crack-your-placement/tree/master/0268-missing-number) |
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/antara316/crack-your-placement/tree/master/1022-unique-paths-iii) |
@@ -476,6 +478,7 @@ crack your placement
 | [0050-powx-n](https://github.com/antara316/crack-your-placement/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/antara316/crack-your-placement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/antara316/crack-your-placement/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/antara316/crack-your-placement/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/antara316/crack-your-placement/tree/master/0394-decode-string) |
