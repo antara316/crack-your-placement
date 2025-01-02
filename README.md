@@ -448,6 +448,7 @@ crack your placement
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/antara316/crack-your-placement/tree/master/1022-unique-paths-iii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/antara316/crack-your-placement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
 | ------- |
