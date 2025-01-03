@@ -107,6 +107,7 @@ crack your placement
 | [2163-kth-distinct-string-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/antara316/crack-your-placement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/antara316/crack-your-placement/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2358-number-of-ways-to-split-array](https://github.com/antara316/crack-your-placement/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/antara316/crack-your-placement/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/antara316/crack-your-placement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -258,6 +259,7 @@ crack your placement
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/antara316/crack-your-placement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2358-number-of-ways-to-split-array](https://github.com/antara316/crack-your-placement/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/antara316/crack-your-placement/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
 |  |
