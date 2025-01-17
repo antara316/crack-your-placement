@@ -111,6 +111,7 @@ crack your placement
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/antara316/crack-your-placement/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/antara316/crack-your-placement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/antara316/crack-your-placement/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/antara316/crack-your-placement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/antara316/crack-your-placement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -458,6 +459,7 @@ crack your placement
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/antara316/crack-your-placement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/antara316/crack-your-placement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/antara316/crack-your-placement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/antara316/crack-your-placement/tree/master/2792-neighboring-bitwise-xor) |
 ## Linked List
 |  |
 | ------- |
