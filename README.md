@@ -102,6 +102,7 @@ crack your placement
 | [1762-furthest-building-you-can-reach](https://github.com/antara316/crack-your-placement/tree/master/1762-furthest-building-you-can-reach) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/antara316/crack-your-placement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1876-map-of-highest-peak](https://github.com/antara316/crack-your-placement/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/antara316/crack-your-placement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/antara316/crack-your-placement/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/antara316/crack-your-placement/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -380,6 +381,7 @@ crack your placement
 | [1022-unique-paths-iii](https://github.com/antara316/crack-your-placement/tree/master/1022-unique-paths-iii) |
 | [1117-as-far-from-land-as-possible](https://github.com/antara316/crack-your-placement/tree/master/1117-as-far-from-land-as-possible) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/antara316/crack-your-placement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/antara316/crack-your-placement/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/antara316/crack-your-placement/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/antara316/crack-your-placement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/antara316/crack-your-placement/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -672,6 +674,7 @@ crack your placement
 | [1442-number-of-operations-to-make-network-connected](https://github.com/antara316/crack-your-placement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/antara316/crack-your-placement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/antara316/crack-your-placement/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1876-map-of-highest-peak](https://github.com/antara316/crack-your-placement/tree/master/1876-map-of-highest-peak) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/antara316/crack-your-placement/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/antara316/crack-your-placement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Hash Function
