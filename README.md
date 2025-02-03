@@ -116,6 +116,7 @@ crack your placement
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/antara316/crack-your-placement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/antara316/crack-your-placement/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/antara316/crack-your-placement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/antara316/crack-your-placement/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/antara316/crack-your-placement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
