@@ -450,6 +450,7 @@ crack your placement
 | [1014-k-closest-points-to-origin](https://github.com/antara316/crack-your-placement/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/antara316/crack-your-placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/antara316/crack-your-placement/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/antara316/crack-your-placement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
@@ -800,6 +801,7 @@ crack your placement
 | [0494-target-sum](https://github.com/antara316/crack-your-placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/antara316/crack-your-placement/tree/master/1022-unique-paths-iii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/antara316/crack-your-placement/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bucket Sort
 |  |
 | ------- |
