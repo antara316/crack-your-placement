@@ -236,6 +236,7 @@ crack your placement
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/antara316/crack-your-placement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1160-letter-tile-possibilities](https://github.com/antara316/crack-your-placement/tree/master/1160-letter-tile-possibilities) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/antara316/crack-your-placement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/antara316/crack-your-placement/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -343,6 +344,7 @@ crack your placement
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/antara316/crack-your-placement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
+| [1160-letter-tile-possibilities](https://github.com/antara316/crack-your-placement/tree/master/1160-letter-tile-possibilities) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/antara316/crack-your-placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/antara316/crack-your-placement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/antara316/crack-your-placement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -423,6 +425,7 @@ crack your placement
 | [0229-majority-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/antara316/crack-your-placement/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/antara316/crack-your-placement/tree/master/0778-reorganize-string) |
+| [1160-letter-tile-possibilities](https://github.com/antara316/crack-your-placement/tree/master/1160-letter-tile-possibilities) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/antara316/crack-your-placement/tree/master/2300-construct-string-with-repeat-limit) |
@@ -802,6 +805,7 @@ crack your placement
 | [0494-target-sum](https://github.com/antara316/crack-your-placement/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/antara316/crack-your-placement/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/antara316/crack-your-placement/tree/master/1022-unique-paths-iii) |
+| [1160-letter-tile-possibilities](https://github.com/antara316/crack-your-placement/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/antara316/crack-your-placement/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/antara316/crack-your-placement/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bucket Sort
