@@ -259,6 +259,7 @@ crack your placement
 | [1762-furthest-building-you-can-reach](https://github.com/antara316/crack-your-placement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/antara316/crack-your-placement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2300-construct-string-with-repeat-limit](https://github.com/antara316/crack-your-placement/tree/master/2300-construct-string-with-repeat-limit) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/antara316/crack-your-placement/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -298,6 +299,7 @@ crack your placement
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/antara316/crack-your-placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/antara316/crack-your-placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/antara316/crack-your-placement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/antara316/crack-your-placement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/antara316/crack-your-placement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
@@ -353,6 +355,7 @@ crack your placement
 | [2163-kth-distinct-string-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/antara316/crack-your-placement/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/antara316/crack-your-placement/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/antara316/crack-your-placement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/antara316/crack-your-placement/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String Matching
@@ -807,6 +810,7 @@ crack your placement
 | [1022-unique-paths-iii](https://github.com/antara316/crack-your-placement/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/antara316/crack-your-placement/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/antara316/crack-your-placement/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/antara316/crack-your-placement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/antara316/crack-your-placement/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bucket Sort
 |  |
