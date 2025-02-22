@@ -347,6 +347,7 @@ crack your placement
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/antara316/crack-your-placement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/antara316/crack-your-placement/tree/master/0874-backspace-string-compare) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/antara316/crack-your-placement/tree/master/1160-letter-tile-possibilities) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/antara316/crack-your-placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/antara316/crack-your-placement/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -556,6 +557,7 @@ crack your placement
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-binary-tree-cameras](https://github.com/antara316/crack-your-placement/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/antara316/crack-your-placement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/antara316/crack-your-placement/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -607,6 +609,7 @@ crack your placement
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/antara316/crack-your-placement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1008-binary-tree-cameras](https://github.com/antara316/crack-your-placement/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/antara316/crack-your-placement/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/antara316/crack-your-placement/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -652,6 +655,7 @@ crack your placement
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-binary-tree-cameras](https://github.com/antara316/crack-your-placement/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/antara316/crack-your-placement/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
