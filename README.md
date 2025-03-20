@@ -284,6 +284,7 @@ crack your placement
 | [0094-binary-tree-inorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/antara316/crack-your-placement/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/antara316/crack-your-placement/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/antara316/crack-your-placement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/antara316/crack-your-placement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/antara316/crack-your-placement/tree/master/0227-basic-calculator-ii) |
@@ -872,6 +873,7 @@ crack your placement
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/antara316/crack-your-placement/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/antara316/crack-your-placement/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/antara316/crack-your-placement/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/antara316/crack-your-placement/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/antara316/crack-your-placement/tree/master/0211-design-add-and-search-words-data-structure) |
