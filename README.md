@@ -17,6 +17,7 @@ crack your placement
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/antara316/crack-your-placement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/antara316/crack-your-placement/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/antara316/crack-your-placement/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/antara316/crack-your-placement/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/antara316/crack-your-placement/tree/master/0049-group-anagrams) |
@@ -131,6 +132,7 @@ crack your placement
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antara316/crack-your-placement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/antara316/crack-your-placement/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/antara316/crack-your-placement/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/antara316/crack-your-placement/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/antara316/crack-your-placement/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/antara316/crack-your-placement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -182,6 +184,7 @@ crack your placement
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/antara316/crack-your-placement/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/antara316/crack-your-placement/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/antara316/crack-your-placement/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/antara316/crack-your-placement/tree/master/0115-distinct-subsequences) |
@@ -280,6 +283,7 @@ crack your placement
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/antara316/crack-your-placement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/antara316/crack-your-placement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0094-binary-tree-inorder-traversal) |
@@ -309,6 +313,7 @@ crack your placement
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/antara316/crack-your-placement/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0503-next-greater-element-ii) |
