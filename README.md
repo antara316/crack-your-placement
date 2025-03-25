@@ -111,6 +111,7 @@ crack your placement
 | [2047-find-a-peak-element-ii](https://github.com/antara316/crack-your-placement/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/antara316/crack-your-placement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/antara316/crack-your-placement/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/antara316/crack-your-placement/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/antara316/crack-your-placement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/antara316/crack-your-placement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/antara316/crack-your-placement/tree/master/2358-number-of-ways-to-split-array) |
@@ -310,6 +311,7 @@ crack your placement
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/antara316/crack-your-placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/antara316/crack-your-placement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/antara316/crack-your-placement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2227-sum-of-subarray-ranges](https://github.com/antara316/crack-your-placement/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/antara316/crack-your-placement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/antara316/crack-your-placement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
@@ -325,6 +327,7 @@ crack your placement
 | [0943-sum-of-subarray-minimums](https://github.com/antara316/crack-your-placement/tree/master/0943-sum-of-subarray-minimums) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/antara316/crack-your-placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/antara316/crack-your-placement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2227-sum-of-subarray-ranges](https://github.com/antara316/crack-your-placement/tree/master/2227-sum-of-subarray-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/antara316/crack-your-placement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
