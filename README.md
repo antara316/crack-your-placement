@@ -257,6 +257,7 @@ crack your placement
 | ------- |
 | [0011-container-with-most-water](https://github.com/antara316/crack-your-placement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/antara316/crack-your-placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/antara316/crack-your-placement/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/antara316/crack-your-placement/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/antara316/crack-your-placement/tree/master/0778-reorganize-string) |
@@ -299,6 +300,7 @@ crack your placement
 | [0234-palindrome-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/antara316/crack-your-placement/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/antara316/crack-your-placement/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/antara316/crack-your-placement/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/antara316/crack-your-placement/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0503-next-greater-element-ii) |
@@ -319,6 +321,7 @@ crack your placement
 | ------- |
 | [0042-trapping-rain-water](https://github.com/antara316/crack-your-placement/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/antara316/crack-your-placement/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/antara316/crack-your-placement/tree/master/0739-daily-temperatures) |
@@ -358,6 +361,7 @@ crack your placement
 | [0336-palindrome-pairs](https://github.com/antara316/crack-your-placement/tree/master/0336-palindrome-pairs) |
 | [0394-decode-string](https://github.com/antara316/crack-your-placement/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/antara316/crack-your-placement/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/antara316/crack-your-placement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/antara316/crack-your-placement/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/antara316/crack-your-placement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/antara316/crack-your-placement/tree/master/0778-reorganize-string) |
