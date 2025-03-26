@@ -31,6 +31,7 @@ crack your placement
 | [0078-subsets](https://github.com/antara316/crack-your-placement/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/antara316/crack-your-placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/antara316/crack-your-placement/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/antara316/crack-your-placement/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/antara316/crack-your-placement/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/antara316/crack-your-placement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -188,6 +189,7 @@ crack your placement
 | [0022-generate-parentheses](https://github.com/antara316/crack-your-placement/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/antara316/crack-your-placement/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/antara316/crack-your-placement/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/antara316/crack-your-placement/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/antara316/crack-your-placement/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/antara316/crack-your-placement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antara316/crack-your-placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -289,6 +291,7 @@ crack your placement
 | [0042-trapping-rain-water](https://github.com/antara316/crack-your-placement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/antara316/crack-your-placement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/antara316/crack-your-placement/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/antara316/crack-your-placement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/antara316/crack-your-placement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/antara316/crack-your-placement/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -321,6 +324,7 @@ crack your placement
 | ------- |
 | [0042-trapping-rain-water](https://github.com/antara316/crack-your-placement/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/antara316/crack-your-placement/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/antara316/crack-your-placement/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/antara316/crack-your-placement/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/antara316/crack-your-placement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/antara316/crack-your-placement/tree/master/0503-next-greater-element-ii) |
@@ -398,6 +402,7 @@ crack your placement
 | [0048-rotate-image](https://github.com/antara316/crack-your-placement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/antara316/crack-your-placement/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/antara316/crack-your-placement/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/antara316/crack-your-placement/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/antara316/crack-your-placement/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/antara316/crack-your-placement/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/antara316/crack-your-placement/tree/master/0329-longest-increasing-path-in-a-matrix) |
