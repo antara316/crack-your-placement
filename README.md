@@ -219,6 +219,7 @@ crack your placement
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/antara316/crack-your-placement/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/antara316/crack-your-placement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/antara316/crack-your-placement/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/antara316/crack-your-placement/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/antara316/crack-your-placement/tree/master/0049-group-anagrams) |
@@ -339,6 +340,7 @@ crack your placement
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/antara316/crack-your-placement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/antara316/crack-your-placement/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/antara316/crack-your-placement/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/antara316/crack-your-placement/tree/master/0014-longest-common-prefix) |
@@ -735,6 +737,7 @@ crack your placement
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/antara316/crack-your-placement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/antara316/crack-your-placement/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/antara316/crack-your-placement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/antara316/crack-your-placement/tree/master/0424-longest-repeating-character-replacement) |
