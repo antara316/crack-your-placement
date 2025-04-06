@@ -95,6 +95,7 @@ crack your placement
 | [1117-as-far-from-land-as-possible](https://github.com/antara316/crack-your-placement/tree/master/1117-as-far-from-land-as-possible) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/antara316/crack-your-placement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1333-sort-the-jumbled-numbers](https://github.com/antara316/crack-your-placement/tree/master/1333-sort-the-jumbled-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/antara316/crack-your-placement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/antara316/crack-your-placement/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/antara316/crack-your-placement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/antara316/crack-your-placement/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -250,6 +251,7 @@ crack your placement
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/antara316/crack-your-placement/tree/master/1160-letter-tile-possibilities) |
+| [1370-count-number-of-nice-subarrays](https://github.com/antara316/crack-your-placement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/antara316/crack-your-placement/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/antara316/crack-your-placement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/antara316/crack-your-placement/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -285,6 +287,7 @@ crack your placement
 | [0966-binary-subarrays-with-sum](https://github.com/antara316/crack-your-placement/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/antara316/crack-your-placement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/antara316/crack-your-placement/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/antara316/crack-your-placement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/antara316/crack-your-placement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/antara316/crack-your-placement/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -489,6 +492,7 @@ crack your placement
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/antara316/crack-your-placement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/antara316/crack-your-placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/antara316/crack-your-placement/tree/master/1014-k-closest-points-to-origin) |
+| [1370-count-number-of-nice-subarrays](https://github.com/antara316/crack-your-placement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/antara316/crack-your-placement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/antara316/crack-your-placement/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -749,6 +753,7 @@ crack your placement
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/antara316/crack-your-placement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/antara316/crack-your-placement/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/antara316/crack-your-placement/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/antara316/crack-your-placement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/antara316/crack-your-placement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/antara316/crack-your-placement/tree/master/1622-max-value-of-equation) |
 | [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
