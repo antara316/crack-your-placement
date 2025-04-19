@@ -124,6 +124,7 @@ crack your placement
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/antara316/crack-your-placement/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/antara316/crack-your-placement/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/antara316/crack-your-placement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/antara316/crack-your-placement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/antara316/crack-your-placement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/antara316/crack-your-placement/tree/master/2792-neighboring-bitwise-xor) |
@@ -161,6 +162,7 @@ crack your placement
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/antara316/crack-your-placement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/antara316/crack-your-placement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/antara316/crack-your-placement/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/antara316/crack-your-placement/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +192,7 @@ crack your placement
 | [1468-check-if-n-and-its-double-exist](https://github.com/antara316/crack-your-placement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1733-maximum-number-of-visible-points](https://github.com/antara316/crack-your-placement/tree/master/1733-maximum-number-of-visible-points) |
 | [2502-sort-the-people](https://github.com/antara316/crack-your-placement/tree/master/2502-sort-the-people) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/antara316/crack-your-placement/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -794,6 +797,7 @@ crack your placement
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/antara316/crack-your-placement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/antara316/crack-your-placement/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/antara316/crack-your-placement/tree/master/2047-find-a-peak-element-ii) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/antara316/crack-your-placement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/antara316/crack-your-placement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
